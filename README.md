@@ -37,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=f4ruk-seker&show_icons=true&locale=en" alt="f4ruk-seker" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=f4ruk-seker&" alt="f4ruk-seker" /></p>
+
+![snake gif](https://github.com/F4ruk-seker/F4ruk-seker/blob/output/github-contribution-grid-snake.gif)
