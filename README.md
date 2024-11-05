@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faruk</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">IM A Fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f4ruk-seker&label=Profile%20views&color=0e75b6&style=flat" alt="f4ruk-seker" /> </p>
 
